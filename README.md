@@ -1,5 +1,4 @@
 <H1>Olá a todos</H1>
-<BR>
 <H2>Obrigado por visitar o meu perfil !</h2>
 
 ### Hi there 👋
