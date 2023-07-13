@@ -1,7 +1,7 @@
-<H1>Olá a todos</H1>
-<H2>Obrigado por visitar o meu perfil !</h2>
+<H1>Hello everybody !</H1>
+<H2>Thank you for viewing my profile !</h2>
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **RodrTeixeira/RodrTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
