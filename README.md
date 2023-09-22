@@ -1,4 +1,4 @@
-<H1>Hello everybody !</H1>
+<H1>Hello !</H1>
 <H2>Thank you for viewing my profile !</h2>
 
 <!-- ### Hi there 👋 -->
